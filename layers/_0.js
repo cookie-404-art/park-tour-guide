@@ -1,0 +1,1 @@
+var json__0 = {"type":"FeatureCollection","name":"_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"FID":1.0},"geometry":{"type":"Polygon","coordinates":[[[65.343394,55.440175],[65.342693,55.440694],[65.343565,55.441092],[65.344518,55.440517],[65.343726,55.440172],[65.343394,55.440175]]]}}]}
